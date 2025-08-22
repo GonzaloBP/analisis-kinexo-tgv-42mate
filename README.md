@@ -29,12 +29,6 @@ Para abordar la problemática de manera integral, se propuso la adquisición de 
 2.  **Análisis Comparativo:** Se utilizó una **matriz de decisión cuantitativa** para evaluar tres soluciones del mercado: Sentrifugo, Redmine HRM Plugin y BambooHR.
 3.  **Selección Final:** Con un puntaje de **57.2 sobre 44.5 y 41.2**, se seleccionó **BambooHR** como la solución óptima para las necesidades y restricciones de 42mate.
 
-## Documento Completo
-
-📄 El análisis detallado, la matriz de evaluación y la fundamentación completa se encuentran en el documento principal del proyecto:
-**[Trabajo Práctico Integrador - 42mate.pdf]([análisis-TPI-%2042mate.pdf)**
-
-
 ## Autores del Proyecto ("Los Guardianes de la Gerencia")
 
 -   **Gonzalo Facundo Benitez Peressi**

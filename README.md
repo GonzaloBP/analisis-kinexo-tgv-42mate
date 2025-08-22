@@ -32,8 +32,8 @@ Para abordar la problemática de manera integral, se propuso la adquisición de 
 ## Documento Completo
 
 📄 El análisis detallado, la matriz de evaluación y la fundamentación completa se encuentran en el documento principal del proyecto:
-**[Trabajo Práctico Integrador - 42mate.pdf](./Trabajo%20Práctico%20Integrador%20-%2042mate.pdf)**
-*(Nota: Asegúrate de que el nombre de tu archivo PDF coincida con este enlace)*
+**[Trabajo Práctico Integrador - 42mate.pdf]([./Trabajo%20Práctico%20Integrador%20-%2042mate.pdf](https://github.com/GonzaloBP/analisis-kinexo-tgv-42mate/blob/main/an%C3%A1lisis-TPI-%2042mate.pdf))**
+
 
 ## Autores del Proyecto ("Los Guardianes de la Gerencia")
 

@@ -32,7 +32,7 @@ Para abordar la problemática de manera integral, se propuso la adquisición de 
 ## Documento Completo
 
 📄 El análisis detallado, la matriz de evaluación y la fundamentación completa se encuentran en el documento principal del proyecto:
-**[Trabajo Práctico Integrador - 42mate.pdf]([/análisis-TPI-%2042mate.pdf)**
+**[Trabajo Práctico Integrador - 42mate.pdf]([análisis-TPI-%2042mate.pdf)**
 
 
 ## Autores del Proyecto ("Los Guardianes de la Gerencia")
@@ -79,11 +79,6 @@ Para llevar a cabo el diagnóstico y las propuestas, se utilizaron los siguiente
 -   **Desafío Cultural:** El mayor obstáculo para la adopción de la agilidad no es técnico, sino cultural, relacionado con la resistencia al cambio y la necesidad de nuevas habilidades blandas.
 -   **Recomendación Clave:** Se concluyó que el primer y más importante paso para la transformación ágil es **instaurar una visión y un propósito compartidos (Estrella Polar)** para alinear a toda la organización, generar un sentido de urgencia y motivar la participación activa de todos los miembros.
 
-## Documento Completo
-
-📄 Para un análisis detallado, con todos los gráficos y justificaciones, por favor consulte el documento completo del caso de estudio:
-**[Caso de Estudio - Kinexo & TGV.pdf](./Caso%20de%20Estudio%20-%20Kinexo%20&%20TGV.pdf)**
-*(Nota: Asegúrate de que el nombre del archivo PDF en tu repositorio coincida con este enlace)*
 
 ## Autores del Proyecto
 
